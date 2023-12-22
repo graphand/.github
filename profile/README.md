@@ -12,11 +12,10 @@ Within this organization, you'll find a variety of repositories that cater to di
 
 ## Current and Future Projects
 
-**@graphand/core**: The backbone of Graphand, where you'll find the essential codebase that powers our SaaS framework.
-
-Integration tools: A suite of tools designed to seamlessly integrate Graphand with various third-party services and platforms, ensuring smooth interoperability and expanded functionality in diverse environments.
-Documentation & Guides: Comprehensive resources to help you understand and utilize the full potential of Graphand.
-Community Contributions: A space for the community to contribute to the development and enhancement of Graphand, fostering innovation and collaboration.
+- **@graphand/core**: The backbone of Graphand, where you'll find the essential codebase that powers our SaaS framework.
+- Integration tools: A suite of tools designed to seamlessly integrate Graphand with various third-party services and platforms, ensuring smooth interoperability and expanded functionality in diverse environments.
+- Documentation & Guides: Comprehensive resources to help you understand and utilize the full potential of Graphand.
+- Community Contributions: A space for the community to contribute to the development and enhancement of Graphand, fostering innovation and collaboration.
 
 ## Why Graphand on GitHub?
 
